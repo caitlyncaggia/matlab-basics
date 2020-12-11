@@ -1,0 +1,7 @@
+Inventory Data:
+
+Chips #5 #5
+Lettuce #1 #2
+Cheese #1 #4
+Tortillas #1 #5
+Tomatos #1 #6
